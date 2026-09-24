@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - fighting
+  - adventure
 video: https://youtu.be/2MOHO7dBFd8
 post: https://mvasilkov.animuchan.net/king-thirteen
 # See github.com/js13kGames/hello-world for supported frontmatter
